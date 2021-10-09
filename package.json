@@ -1,7 +1,7 @@
 {
   "name": "postme",
   "version": "1.0.0",
-  "description": "Aplicación que permite enviar texto, audio, imagenes y video",
+  "description": "Aplicación pwa que permite enviar texto, audio, imagenes y video",
   "main": "index.js",
   "scripts": {
     "start":"http-server -c -1 ."
